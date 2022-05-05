@@ -1,38 +1,15 @@
-# Project1
-Configured Salesforce Playground
+# Project 1 - Create a business
+## Project Description
+Act as the Salesforce Admin for your hypothetical company. Configure your Salesforce platform to meet the needs of your org.  The Admin should configure Security, Sales Cloud, Service Cloud, and UI to reflect the needs of the business
 
+## Technologies Used
+Trailhead Playground Org
 
-Sales Cloud:
-
-Customized Leads and Opportunities to reflect business needs
-Configured assignment rules, set up Web-to-lead, customized Opportunity path
-Products and Pricebooks configured to meet business needs
-
-Service Cloud:
-
-Set up Case assignment rules, escalation rules, and Web-to-Case
-Case Paths offer step-by-step guidance
-
-Security:
-
-Login IP address and Login Hours configured for Org Level Security
-Object level permissions set for sales and service profiles
-Org-Wide defaults, Role Hierarchy, and Sharing Rules put in place for Record Level
-
-UI:
-
-Custom App with custom home page
-Record types configured for the Account Object
-Custom Page layouts configured
-1 object-specific quick action, and 1 global action
-
-Process Automation:
-1 Screen Flow
-1 Before-Save Flow 
-1 After-Save Flow
-1 Autolaunched Flow
-1 Process built through Process builder
-
-Reports and Dashboards:
-1 Standard Report
-1 Dashboard
+## Features
+- Web-to-Lead and Web-to-Case configured
+- Custom App
+- Configured Products and Pricebooks
+- Record-Triggered Flows
+- AutoLaunched Flows
+- Custom Objects
+- Default Login Hours
